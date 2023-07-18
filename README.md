@@ -96,7 +96,7 @@
    
   | 주차 | 날짜 | 문제 | 난이도 | 비고 |
   |:---:|:---:|:---:|:---:|:---:|
-  | week_01 | 07-18 ~ 07-25  | <img width="500px" src="(https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/acd052d2-cc60-432f-b54c-5fac75474bf5">| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_01 | 07-18 ~ 07-25  | <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/acd052d2-cc60-432f-b54c-5fac75474bf5">| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_02 | 07-26 ~ 08-01  |   | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
 
   </details>
