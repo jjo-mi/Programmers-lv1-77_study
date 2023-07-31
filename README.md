@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>화요일 &rarr; <a href="https://www.notion.so/lv0-100-418a80c3946e4b0fa023dd849c35320e"><b>일정 확인</b></a></td>
+    <td>월요일 &rarr; <a href="https://www.notion.so/lv0-100-418a80c3946e4b0fa023dd849c35320e"><b>일정 확인</b></a></td>
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -45,12 +45,12 @@
 |   주차    |      날짜       | jjo-mi | Doha  |  |  |  |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
 | week_01 | 07-18 ~ 07-25 | ✅      |   ✅    |         |            |           |
-| week_02 | 07-26 ~ 08-01 |    ✅    |    ✅      |         |            |           |
-| week_03 | 08-02 ~ 08-08 |        |          |         |            |           |
-| week_04 | 08-09 ~ 08-15 |        |          |         |            |           |
-| week_05 | 08-16 ~ 08-22 |        |          |         |            |           |
-| week_06 | 08-23 ~ 08-29 |        |          |         |            |           |
-| week_07 | 08-30 ~ 09-09 |        |          |         |            |           |
+| week_02 | 07-26 ~ 07-31 |    ✅    |    ✅      |         |            |           |
+| week_03 | 08-01 ~ 08-07 |        |          |         |            |           |
+| week_04 | 08-08 ~ 08-14 |        |          |         |            |           |
+| week_05 | 08-15 ~ 08-21 |        |          |         |            |           |
+| week_06 | 08-22 ~ 08-28 |        |          |         |            |           |
+| week_07 | 08-29 ~ 09-04 |        |          |         |            |           |
 
 
 <br>
@@ -95,8 +95,12 @@
    
   | 주차 | 날짜 | 문제 | 난이도 | 비고 |
   |:---:|:---:|:---:|:---:|:---:|
-  | week_01 | 07-18 ~ 07-25  | <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3644ed8d-c54d-4f2a-b294-333305af90a5">| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
-  | week_02 | 07-26 ~ 08-01  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/6514b661-3c67-4a5e-94d5-cf0fd96d11cc"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_01 | 07-18 ~ 07-24  | <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3644ed8d-c54d-4f2a-b294-333305af90a5">| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_02 | 07-25 ~ 07-31  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/6514b661-3c67-4a5e-94d5-cf0fd96d11cc"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_03 | 08-01 ~ 08-07  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/f76ad1ba-7d30-454d-b228-66fc2e5560d8"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+
+
+
 
   </details>
 <br/>
