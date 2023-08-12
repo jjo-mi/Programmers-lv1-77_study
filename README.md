@@ -98,7 +98,7 @@
   | week_01 | 07-18 ~ 07-24  | <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3644ed8d-c54d-4f2a-b294-333305af90a5">| <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_02 | 07-25 ~ 07-31  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/6514b661-3c67-4a5e-94d5-cf0fd96d11cc"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_03 | 08-01 ~ 08-07  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/f76ad1ba-7d30-454d-b228-66fc2e5560d8"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
-    | week_04 | 08-08 ~ 08-15  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2206b32f-56f3-4ea5-9b89-0e5e26a0c8eb"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_04 | 08-08 ~ 08-15  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2206b32f-56f3-4ea5-9b89-0e5e26a0c8eb"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
 
 
 
