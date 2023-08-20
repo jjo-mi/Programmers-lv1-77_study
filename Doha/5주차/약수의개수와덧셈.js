@@ -55,12 +55,3 @@ Math.sqrt(cur) % 1 === 0은 current의 제곱근이 정수인지를 판별 대�
 제곱근이 정수라면 약수의 개수가 홀수. 
 제곱근이 정수라면은 정수 % 1 === 0이기때문에 -cur를 해주는 것.
 */
-
-function solution(s) {
-  const sorted = s.split('').sort((a, b) => {
-    if (a > b) return -1;
-    else if (b > a) return 1;
-    else return 0;
-  });
-  return sorted.join('');
-}
