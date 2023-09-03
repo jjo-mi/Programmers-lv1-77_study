@@ -21,7 +21,7 @@ arr	answer
 */
 
 function solution(arr) {
-  const result = [];
+  let result = [];
   const set = new Set();
 
   for (let i = 0; i < arr.length; i++) {
