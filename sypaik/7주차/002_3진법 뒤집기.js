@@ -26,5 +26,19 @@ n (10진법)	n (3진법)	앞뒤 반전(3진법)	10진법으로 표현
 */
 
 function solution(n) {
-  return parseInt(n.toString(3).split('').reverse().join(''), 3);
+  let array = [];
+    let answer = 0;
+    while(n !== 0) {
+        array.push(n % 3);
+        n = Math.floor(n / 3);
+    }
+    for (let i = 0; i < array.length; i++) {
+        answer += array[i] * Math.pow(3, array.length - i - 1);
+    }
+    return answer;
 }
+
+/* toString, parseInt로 n진수 변환 */
+function solution(n) {
+  return parseInt(n.toString(3).split('').reverse().join(''), 3)
+};
