@@ -48,9 +48,11 @@
 | week_03 | 08-01 ~ 08-07 |   ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |   |     
 | week_04 | 08-08 ~ 08-14 |   ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |    |     
 | week_05 | 08-15 ~ 08-21 |   ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  | 중도합류 |    
-| week_06 | 08-22 ~ 08-28 |   ✅  |  ✅  |  ✅  |  ✅  |      |     |        |      
-| week_07 | 08-29 ~ 09-04 |        |      |      |      |      |      |         |
-
+| week_06 | 08-22 ~ 08-28 |   ✅  |  ✅  |  ✅  |  ✅  |      |  🔺   |   ✅     |      
+| week_07 | 08-29 ~ 09-04 |    ✅   |  ✅    |      |      |      |  ✅    |   ✅    |
+| week_08 | 09-05 ~ 09-11 |       |      |      |      |      |      |       |
+| week_09 | 09-12 ~ 09-18 |       |      |      |      |      |      |       |
+| week_10 | 09-19 ~ 09-25 |       |      |      |      |      |      |       |
 
 
 <br>
@@ -100,7 +102,7 @@
   | week_05 | 08-15 ~ 08-21  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/e345100a-ec59-4a56-b0b5-024c2f5a4be6"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_06 | 08-22 ~ 08-28  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/0056d716-ed26-49bc-a47a-0a4a64439f10"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_07 | 08-29 ~ 09-04  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/ef224670-5028-4e5a-a198-b3132b986891"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
-  | week_08 | 09-05 ~ 09-11  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_08 | 09-05 ~ 09-11  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2dca7c11-e54a-42c6-99bf-3d8caa0e56b8"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_09 | 09-12 ~ 09-18  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_10 | 09-19 ~ 09-25  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
 
