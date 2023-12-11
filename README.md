@@ -140,11 +140,10 @@
   | week_15 | 10-31 ~ 11-06  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2be22788-d4d5-4a7f-9394-214e5449d046"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_16 | 11-07 ~ 11-13  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3e3b1303-2c99-4a33-8fd1-96e7d137f51d"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_17 | 11-14 ~ 11-20  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/27c7d900-e441-4dfb-9ac3-8d5c34059cfa" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
-  | week_18 | 11-21 ~ 11-27  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_18 | 11-21 ~ 11-27  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/e9a14cbc-1f32-4512-946c-c3bbd5964dbb"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_19 | 11-28 ~ 12-04  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_20 | 12-05 ~ 12-11  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
             
-
 
 
 
