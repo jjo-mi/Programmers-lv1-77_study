@@ -62,7 +62,7 @@
 | week_14 |      ✅   |      |      |   ✅    |      |      |       | |
 | week_15 |    🔺   |      |      |   ✅   |      |      |       | |
 | week_16 |     🔺   |      |      |    ✅  |      |      |       | |
-| week_17 |        |      |      |     |      |      |       | |
+| week_17 |     ✅   |      |      |     |      |      |       | |
 | week_18 |        |      |      |      |      |      |       | |
 | week_19 |        |      |      |      |      |      |       | |
 
@@ -141,10 +141,9 @@
   | week_16 | 11-07 ~ 11-13  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3e3b1303-2c99-4a33-8fd1-96e7d137f51d"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_17 | 11-14 ~ 11-20  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/27c7d900-e441-4dfb-9ac3-8d5c34059cfa" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_18 | 11-21 ~ 11-27  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/d17ed1b9-e857-416f-b215-e4b48ce7d603"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
-  | week_19 | 11-28 ~ 12-04  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_19 | 11-28 ~ 12-04  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/140bbf38-d84c-4ebb-84d2-0a66f6e315db" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_20 | 12-05 ~ 12-11  |  <img width="500px" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
             
-
 
 
 
