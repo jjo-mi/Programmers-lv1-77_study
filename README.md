@@ -45,17 +45,26 @@
 
 
 
-|  주차   |     날짜      | jjo-mi | Oh5Yeonju | sypaik | Charlie| Doha | hyeri-woo  | Yuli |seoye0ng |
-| :-----: | :-----------: | :---: | :---: | :------: | :-------: | :---: | :-----: |  :-----: | :-----: |
-| week_02 | 07-26 ~ 07-31 |   ✅  |  ✅  |    |    | ✅   |  ✅  | ✅ |✅ |
-| week_03 | 08-01 ~ 08-07 |   ✅  |  ✅  |    |    | ✅   |  ✅  | ✅  |  ✅    |
-| week_04 | 08-08 ~ 08-14 |   ✅  |  ✅  |    |    | ✅   |   ✅ |  ✅  |   ✅   |
-| week_05 | 08-15 ~ 08-21 |   ✅  |  ✅  |  중도합류  |    |  ✅  | ✅   | ✅ |  ✅   |
-| week_06 | 08-22 ~ 08-28 |   ✅  |  ✅  |  ✅  |    |      | ✅    |   ✅     |  🔺     |
-| week_07 | 08-29 ~ 09-04 |    ✅   |  ❌    |   ✅   |      |    ✅  |  ✅    |   ❌    | ✅|
-| week_08 | 09-05 ~ 09-11 |   ✅   |  ❌   |  ✅   |  중도합류  |   ❌    | ✅     |  ❌    |❌ |
-| week_09 | 09-12 ~ 09-18 |    🔺  |  ❌   |   ✅   |   ✅   |    중단  |   중단   |    ❌   |❌ |
-| week_10 | 09-19 ~ 09-25 |       |      |      |      |      |      |       | |
+|  주차   |   jjo-mi | Oh5Yeonju | sypaik | Charlie| Doha | hyeri-woo  | Yuli |seoye0ng |
+| :-----: |:---: | :---: | :------: | :-------: | :---: | :-----: |  :-----: | :-----: |
+| week_02 |    ✅  |  ✅  |    |    | ✅   |  ✅  | ✅ |✅ |
+| week_03 |    ✅  |  ✅  |    |    | ✅   |  ✅  | ✅  |  ✅    |
+| week_04 |    ✅  |  ✅  |    |    | ✅   |   ✅ |  ✅  |   ✅   |
+| week_05 |   ✅  |  ✅  |  중도합류  |    |  ✅  | ✅   | ✅ |  ✅   |
+| week_06 |    ✅  |  ✅  |  ✅  |    |      | ✅    |   ✅     |  🔺     |
+| week_07 |    ✅   |  ❌    |   ✅   |      |    ✅  |  ✅    |   ❌    | ✅|
+| week_08 |   ✅   |  ❌   |  ✅   |  중도합류  |   ❌    | ✅     |  ❌    |❌ |
+| week_09 |    🔺  |  ❌   |   ✅   |   ✅   |   중단  |   중단   |  중단   |❌ |
+| week_10 |    ✅   |  ❌     |   ✅   |   ✅   |      |      |       | |
+| week_11 |     ✅   |      |  ✅    |  ✅    |      |      |       | |
+| week_12 |     ✅   |      |      |    ✅  |      |      |       | |
+| week_13 |     ✅   |      |      |    ✅  |      |      |       | |
+| week_14 |      ✅   |      |      |   ✅    |      |      |       | |
+| week_15 |    🔺   |      |      |   ✅   |      |      |       | |
+| week_16 |     🔺   |      |      |    ✅  |      |      |       | |
+| week_17 |     ✅   |      |      |     |      |      |       | |
+| week_18 |        |      |      |      |      |      |       | |
+| week_19 |        |      |      |      |      |      |       | |
 
   <details>
     <summary>진행상황 초기버전</summary>
@@ -123,6 +132,21 @@
   | week_08 | 09-05 ~ 09-11  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2dca7c11-e54a-42c6-99bf-3d8caa0e56b8"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_09 | 09-12 ~ 09-18  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/7911693e-5c4c-4766-96f9-215eb5025e8f"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
   | week_10 | 09-19 ~ 09-25  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/29f0bf2c-f222-4e39-a7c2-7ca8e32119b8" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_10 | 09-26 ~ 10-02  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/29f0bf2c-f222-4e39-a7c2-7ca8e32119b8" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_11 | 10-03 ~ 10-09  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/8ed66fb2-b13f-4af6-804c-a58200c6225c" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_12 | 10-10 ~ 10-16  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/0d0dc96e-eb5f-49eb-87d4-9500ca3f3c17">  | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_13 | 10-17 ~ 10-23  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/0031a047-e935-46d4-83d7-cb520007aa2c" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_14 | 10-24 ~ 10-30  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/6eb7a529-3c3b-4a06-981d-63aa4a97edd6" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_15 | 10-31 ~ 11-06  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/2be22788-d4d5-4a7f-9394-214e5449d046"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_16 | 11-07 ~ 11-13  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/3e3b1303-2c99-4a33-8fd1-96e7d137f51d"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_17 | 11-14 ~ 11-20  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/27c7d900-e441-4dfb-9ac3-8d5c34059cfa" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_18 | 11-21 ~ 11-27  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/d17ed1b9-e857-416f-b215-e4b48ce7d603"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_19 | 11-28 ~ 12-04  |  <img width="500px" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/140bbf38-d84c-4ebb-84d2-0a66f6e315db" > | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+  | week_20 | 12-05 ~ 12-11  |<img width="500" alt="image" src="https://github.com/jjo-mi/Programmers-lv1-77_study/assets/116716381/33022a4d-c4d1-402e-b472-673742eca87f"> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | <br><br><br><br> |
+            
+
+
+
 
 
 
